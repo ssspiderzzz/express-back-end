@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Express-Back-End BoilerPlate
 
-A express boiler plate has cors and dotenv setup. The purpose for this boiler plate is to create a deployment ready environment.
+A express boilerplate has cors and dotenv setup. This boilerplate is in a deployment ready environment.
 
 ### `npm start`
 
