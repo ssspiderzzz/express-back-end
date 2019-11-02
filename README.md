@@ -4,10 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 A express boilerplate has cors and dotenv setup. This boilerplate is in a deployment ready environment.
 
-### `npm start`
+### `npm run start`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+Runs the app in the development mode with nodemon.<br>
+[http://localhost:8080](http://localhost:8080)
